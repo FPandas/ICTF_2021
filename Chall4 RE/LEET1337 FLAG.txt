@@ -1,0 +1,9 @@
+Billy & Joe RE Chronicles, part 4
+
+"Elite Hacker require an Elite Pass, but I'm not an Elite hacker" said Mark
+"Each Challenge seems to have a similar pattern" thought Billy and Joe
+
+Difficulty Easy-Medium
+
+FLAG
+ICTF{B4D3NCRYPT10N}

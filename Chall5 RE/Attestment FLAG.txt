@@ -1,0 +1,9 @@
+Billy & Joe RE Chronicles, part 5
+
+This one is more difficult, but not impossible.
+Two input, but one Flag
+
+Difficulty Easy-Medium
+
+FLAG
+ICTF{S1mpl34uth3nt1c4t1on}

@@ -1,0 +1,10 @@
+Billy & Joe RE Chronicles, part 1
+
+Billy and Joe wanted to learn Reverse Engineering. 
+Their best friend Mark decided to help them by creating a series of Reverse engineering Challenge where they are required to find the flag.
+Mark said each challenge will have an obfuscated flag.
+
+Difficulty Easy
+
+FLAG
+ICTF{B4dP455w0rds}
